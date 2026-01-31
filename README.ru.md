@@ -1,5 +1,7 @@
 [🇷🇺 Русская версия](README.ru.md) | [🇬🇧 English version](README.md)
 
+---
+
 # Be in Times 2024: Повышение операционной эффективности АО «Металл-групп»
 
 🏆 **4th place** at Be in Times 2024 Case Championship (ESTIEM × Kept Engineering)  
